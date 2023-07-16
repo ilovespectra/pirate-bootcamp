@@ -22,3 +22,15 @@ Feast 'yer eyes on the bootcamp agenda!
 | ✨ [An Efficient Port is a Profitable Port](./quest-5/) |
 | ⚔️ [Prepare for Battle Using Oracles](./quest-6/) |
 | 💥 [Use Solana Pay to Defend Your Ship](./quest-7/) |
+
+### to run
+
+Run
+
+```
+anchor build
+```
+
+```
+anchor test —skip-local-validator
+```
